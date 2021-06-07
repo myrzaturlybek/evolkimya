@@ -8,13 +8,8 @@
         <p class="text-lead1 text-center mt-3 mb-8 md:text-left md:pr-3">
           Новое дыхание на бетонных, деревянных и стальных поверхностях!
         </p>
-        <a href="#contact">
-          <Button
-            class="self-center md:self-start"
-            text="Связаться"
-            bg="bg-pink"
-            color="text-white"
-          />
+        <a class="self-center md:self-start" href="#contact">
+          <Button text="Связаться" bg="bg-pink" color="text-white" />
         </a>
       </div>
       <div class="hidden md:block md:flex-grow md:flex md:justify-center">
